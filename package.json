@@ -1,0 +1,19 @@
+{
+  "name": "animalfactsrestapi",
+  "version": "1.0.0",
+  "description": "A REST API providing interesting animal facts, built with JavaScript, Node.js, and Express.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "keywords": ["animal", "facts", "REST API", "JavaScript", "Node.js", "Express"],
+  "author": "Lionel Gurret (@gurretl)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
