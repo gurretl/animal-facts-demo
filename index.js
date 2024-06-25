@@ -8,12 +8,12 @@ const port = 3000;
 
 // Array of animal facts to serve
 let animalFacts = [
-    { id: 1, fact: "A group of flamingos is called a 'flamboyance'." },
-    { id: 2, fact: "Koalas sleep up to 22 hours a day." },
-    { id: 3, fact: "Octopuses have three hearts and blue blood." },
-    { id: 4, fact: "Dolphins have names for each other." },
-    { id: 5, fact: "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible." },
-    { id: 6, fact: "A snail can sleep for three years at a time." }
+    { id: 1, fact: "AAAAAAAAAAA A group of flamingos is called a 'flamboyance'." },
+    { id: 2, fact: "AAAAAAAAAAA Koalas sleep up to 22 hours a day." },
+    { id: 3, fact: "AAAAAAAAAAA Octopuses have three hearts and blue blood." },
+    { id: 4, fact: "AAAAAAAAAAA Dolphins have names for each other." },
+    { id: 5, fact: "AAAAAAAAAAA Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible." },
+    { id: 6, fact: "AAAAAAAAAAA A snail can sleep for three years at a time." }
 ];
 
 // Enabling CORS for all requests
